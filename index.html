@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Testing Sass</title>
+	<link href="/styles/css/main.css" rel="stylesheet" type="text/css" />
+  <link href="https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap" rel="stylesheet">
+  <script src="https://kit.fontawesome.com/70772a0888.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+	<body>
+    <div id="navbar">
+      <button class="icon">
+        <i class="fas fa-times"></i>
+      </button>
+      <ul>
+        <li id="category-one" onclick="populateCards('cats')">Gatos</li>
+        <li id="category-two" onclick="populateCards('dogs')">Cachorros</li>
+        <li id="category-three" onclick="populateCards('pigeon')">Pombos</li>
+        <li id="category-four" onclick="populateCards('capybara')">Capivaras</li>
+      </ul>
+      <img src="https://idwall.co/img/logo.svg" />
+    </div>
+    <h1>Pets do Brasil </h1>
+    <template data-id="card-template">
+      <div class="card">
+        <div class="picture">
+          <img src="{{image}}" alt="">
+        </div>
+        <div class="content">
+          <div class="title">{{title}}</div>
+          {{content}}
+        </div>
+      </div>
+    </template>
+    <div class="cards-wrapper" data-id="cards-wrapper">
+    </div>
+    <div class="footer">Todos os direitos reservados</div>
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>

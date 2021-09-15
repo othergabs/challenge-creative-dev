@@ -1,0 +1,25 @@
+@import '_constants';
+
+#navbar {
+  position: absolute;
+  height: 100%;
+  width: 100px;
+  background: $secondary-color;
+  left: 0;
+  top: 0;
+  padding: 10px;
+}
+
+#navbar ul {
+  margin-left: -15px;
+  margin-top: 40px;
+  color: $primary-color;
+}
+
+#navbar img {
+  position: absolute;
+  bottom: 25px;
+  margin: auto;
+  right: 0;
+  left: 0;
+}

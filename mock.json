@@ -1,0 +1,71 @@
+{
+  "cats": [
+    {
+      "image": "http://makeameme.org/media/templates/120/grumpy_cat.jpg",
+      "title": "Raça 1",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/d3/7c/33/d37c33b2921a5df2fc85040e32b28f6c.jpg",
+      "title": "Raça 2",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta, facere placeat impedit. Necessitatibus cum corporis, odit perferendis optio rem incidunt adipisci!"
+    },
+    {
+      "image": "https://img.r7.com/images/gatos-top-internet-20012020190258469",
+      "title": "Raça 3",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "dogs": [
+    {
+      "image": "https://www.dci.com.br/wp-content/uploads/2020/09/1300x0_1568662224_5d7fe2d09bccd.jpeg",
+      "title": "Raça 1",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta"
+    },
+    {
+      "image": "https://metropolitanafm.com.br/wp-content/uploads/2016/12/capa-meme-copy.jpg",
+      "title": "Raça 2",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta, facere placeat impedit. Necessitatibus cum corporis, odit perferendis optio rem incidunt adipisci!"
+    },
+    {
+      "image": "https://www.gerarmemes.com.br/uploads/galeria/ab9e03d8.jpg",
+      "title": "Raça 3",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "capybara": [
+    {
+      "image": "https://img.ibxk.com.br/2021/06/18/18130943383151.jpg",
+      "title": "Raça 1",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/1211195418/living8_thumb_400x400.jpg",
+      "title": "Raça 2",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta, facere placeat impedit. Necessitatibus cum corporis, odit perferendis optio rem incidunt adipisci!"
+    },
+    {
+      "image": "https://pbs.twimg.com/media/B-3ygN1UYAASuEj.jpg",
+      "title": "Raça 3",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+    }
+  ],
+  "pigeon": [
+{
+      "image": "https://pbs.twimg.com/media/DyIOBHQXQAAl2El.jpg",
+      "title": "Raça 1",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXTDL62GpsA_N5tiByCjjR3oMcY6V-R0Rl-A&usqp=CAU",
+      "title": "Raça 2",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Et, error. Accusamus ab corrupti amet natus animi pariatur soluta, facere placeat impedit. Necessitatibus cum corporis, odit perferendis optio rem incidunt adipisci!"
+    },
+    {
+      "image": "https://pbs.twimg.com/profile_images/2452886503/kz550xzebkgi164kzkjf_400x400.png",
+      "title": "Raça 3",
+      "content": "Lorem ipsum, dolor sit amet consectetur adipisicing elit."
+    }
+  ]
+
+}
