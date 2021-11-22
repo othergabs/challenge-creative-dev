@@ -1,4 +1,4 @@
-## Compile and watch Sass
+## Compilar o SASS
 
-From the root folder run (in the Shell tab):  
+Dentro do diretório raiz, execute o comando (na aba shell):  
 `./dart-sass/sass --watch ./styles/scss:./styles/css`
